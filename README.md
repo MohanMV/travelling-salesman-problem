@@ -11,6 +11,7 @@ I completed a program in Python that is capable of:
 2. Calculating the distance between those locations
 3. Generating a visiting order to find the shortest path
 4. Visualising the path.
+
 The program implements two algorithms, the Nearest Neighbour Algorithm, and the Genetic Algorithm. The Nearest Neighbour algorithm is used to calculate an optimized travel route between all of the locations returning to the starting point. Whereas the Genetic Algorithm is used to solve small datasets (less than 100).
  
 ## Contact me!
